@@ -1,5 +1,4 @@
 .quickdrawcache/
 /data/numpy_files/
-/data/rep_variation/
 /data/outputs/*
 /data/full_raw_bat.ndjson
